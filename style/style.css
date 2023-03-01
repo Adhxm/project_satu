@@ -1,0 +1,27 @@
+/*eksternal css*/
+
+body{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-decoration :none;
+    letter-spacing: 0.5px;
+}
+h2{
+    letter-spacing: 2px;
+}
+.nav :hover{
+    background-color: rgb(216, 216, 216);
+    border-radius: 30px;
+    padding: 8.6px;
+    transition: all 0.3s ease-in;
+}
+a{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: rgb(80, 80, 80);
+    background-color: rgb(209, 209, 209);
+    padding: 7px;
+    border-radius: 20px;
+    transition: all 0.3s ease-in;
+}
