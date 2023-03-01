@@ -1,7 +1,7 @@
 /*eksternal css*/
 html{
     scroll-behavior: smooth;
-    background-image:https://images4.alphacoders.com/710/710501.png;
+    background-image: url(https://images4.alphacoders.com/710/710501.png);
 }
 body{
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
